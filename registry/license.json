@@ -1,0 +1,18 @@
+{
+  "registry_version": 1,
+  "updated_at": "2026-05-12T00:00:00Z",
+  "licenses": [
+    {
+      "license_hash": "PASTE_HASH_HERE",
+      "status": "active",
+      "client_id": "CLIENT001",
+      "tier": "MONTHLY",
+      "expires": "2026-06-30",
+      "allowed_symbols": ["GOLD", "GOLDmicro", "XAUUSD", "XAUUSDm", "*"],
+      "allowed_machine_ids": ["*"],
+      "allowed_mt5_accounts": ["*"],
+      "max_grace_days": 7
+    }
+  ],
+  "revoked": []
+}
