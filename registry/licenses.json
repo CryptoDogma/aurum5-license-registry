@@ -1,6 +1,6 @@
 {
   "registry_version": 1,
-  "updated_at": "2026-05-14T13:54:44+00:00",
+  "updated_at": "2026-05-14T17:31:02+00:00",
   "licenses": [
     {
       "license_hash": "PASTE_HASH_HERE",
@@ -62,6 +62,27 @@
       ],
       "allowed_mt5_accounts": [
         "342143911"
+      ],
+      "max_grace_days": 7
+    },
+    {
+      "license_hash": "35dd51272fe1d9188acae8ec69428a5d32fea988360a02b07652a01cb31f5dda",
+      "status": "active",
+      "client_id": "Remote VPS",
+      "tier": "FULL",
+      "expires": "2030-06-30",
+      "allowed_symbols": [
+        "GOLD",
+        "GOLDmicro",
+        "XAUUSD",
+        "XAUUSDm",
+        "*"
+      ],
+      "allowed_machine_ids": [
+        "*"
+      ],
+      "allowed_mt5_accounts": [
+        "410716325"
       ],
       "max_grace_days": 7
     }
