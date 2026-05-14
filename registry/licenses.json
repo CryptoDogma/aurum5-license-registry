@@ -1,6 +1,6 @@
 {
   "registry_version": 1,
-  "updated_at": "2026-05-14T13:26:11+00:00",
+  "updated_at": "2026-05-14T13:54:44+00:00",
   "licenses": [
     {
       "license_hash": "PASTE_HASH_HERE",
@@ -41,6 +41,27 @@
       ],
       "allowed_mt5_accounts": [
         "*"
+      ],
+      "max_grace_days": 7
+    },
+    {
+      "license_hash": "bd48371c1a7c820a5de4c5bbe1b211b4de3d7c436c007de3225d1e763a31fd07",
+      "status": "active",
+      "client_id": "Gert Africhamps",
+      "tier": "FULL",
+      "expires": "2031-06-30",
+      "allowed_symbols": [
+        "GOLD",
+        "GOLDmicro",
+        "XAUUSD",
+        "XAUUSDm",
+        "*"
+      ],
+      "allowed_machine_ids": [
+        "*"
+      ],
+      "allowed_mt5_accounts": [
+        "342143911"
       ],
       "max_grace_days": 7
     }
