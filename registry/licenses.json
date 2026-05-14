@@ -1,6 +1,6 @@
 {
   "registry_version": 1,
-  "updated_at": "2026-05-14T13:25:42+00:00",
+  "updated_at": "2026-05-14T13:26:11+00:00",
   "licenses": [
     {
       "license_hash": "PASTE_HASH_HERE",
@@ -8,6 +8,27 @@
       "client_id": "CLIENT001",
       "tier": "MONTHLY",
       "expires": "2026-06-30",
+      "allowed_symbols": [
+        "GOLD",
+        "GOLDmicro",
+        "XAUUSD",
+        "XAUUSDm",
+        "*"
+      ],
+      "allowed_machine_ids": [
+        "*"
+      ],
+      "allowed_mt5_accounts": [
+        "*"
+      ],
+      "max_grace_days": 7
+    },
+    {
+      "license_hash": "480a1e2e7927ea5cb64edb4fb09f7aa452aa19c21a87cb1056b8399e46decba1",
+      "status": "active",
+      "client_id": "Administrator",
+      "tier": "full",
+      "expires": "2030-06-30",
       "allowed_symbols": [
         "GOLD",
         "GOLDmicro",
