@@ -1,6 +1,6 @@
 {
   "registry_version": 1,
-  "updated_at": "2026-05-14T17:31:02+00:00",
+  "updated_at": "2026-05-15T16:20:44+00:00",
   "licenses": [
     {
       "license_hash": "PASTE_HASH_HERE",
@@ -66,7 +66,7 @@
       "max_grace_days": 7
     },
     {
-      "license_hash": "35dd51272fe1d9188acae8ec69428a5d32fea988360a02b07652a01cb31f5dda",
+      "license_hash": "6f83114224d5b57ca12505ebb10617afec8a52b4e4b7f3c90a7269ff0668181d",
       "status": "active",
       "client_id": "Remote VPS",
       "tier": "FULL",
