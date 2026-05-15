@@ -1,6 +1,6 @@
 {
   "registry_version": 1,
-  "updated_at": "2026-05-15T16:20:44+00:00",
+  "updated_at": "2026-05-15T16:22:11+00:00",
   "licenses": [
     {
       "license_hash": "PASTE_HASH_HERE",
@@ -82,7 +82,7 @@
         "*"
       ],
       "allowed_mt5_accounts": [
-        "410716325"
+        "*"
       ],
       "max_grace_days": 7
     }
