@@ -1,6 +1,6 @@
 {
   "registry_version": 1,
-  "updated_at": "2026-05-15T16:22:11+00:00",
+  "updated_at": "2026-05-16T11:59:43+00:00",
   "licenses": [
     {
       "license_hash": "PASTE_HASH_HERE",
@@ -45,7 +45,7 @@
       "max_grace_days": 7
     },
     {
-      "license_hash": "bd48371c1a7c820a5de4c5bbe1b211b4de3d7c436c007de3225d1e763a31fd07",
+      "license_hash": "c3863231fdc58d10d800e870ed7171a26dce4d11197640bee9f288c1c52ac859",
       "status": "active",
       "client_id": "Gert Africhamps",
       "tier": "FULL",
