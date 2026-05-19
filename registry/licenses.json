@@ -24,7 +24,7 @@
       "max_grace_days": 7
     },
     {
-      "license_hash": "480a1e2e7927ea5cb64edb4fb09f7aa452aa19c21a87cb1056b8399e46decba1",
+      "license_hash": "*",
       "status": "active",
       "client_id": "Administrator",
       "tier": "full",
@@ -40,7 +40,7 @@
         "*"
       ],
       "allowed_mt5_accounts": [
-        "*"
+        "410716325"
       ],
       "max_grace_days": 7
     },
