@@ -8,7 +8,7 @@
       "status": "active",
       "client_id": "Administrator",
       "tier": "full",
-      "expires": "2030-06-30",
+      "expires": "2026-05-29",
       "allowed_symbols": [
         "GOLD",
         "GOLDmicro",
@@ -20,7 +20,7 @@
         "*"
       ],
       "allowed_mt5_accounts": [
-        "295859993"
+        "*"
       ],
       "max_grace_days": 7
     },
